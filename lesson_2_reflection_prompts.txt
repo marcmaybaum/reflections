@@ -1,0 +1,15 @@
+## Initializing a Repository
+
+git init =  creates a new repository; git commands are not available outside of an initialized repository
+git status = finding files you have listed or committed in repository
+
+** good to keep commits small in stages
+because of this git creates a 'staging area'
+between the working directory (where files are located on computer)
+and the repository
+
+git add = adds file (any files following command) to the staging area before commit
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- It's a nice in-between zone that lets you experiment and make changes until it is ready
+to be committed to your repository

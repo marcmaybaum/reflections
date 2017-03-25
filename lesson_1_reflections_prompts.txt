@@ -1,0 +1,17 @@
+# You can become a better program with version control by more collaboration
+
+# The pros and cons of manual commits is freedom of saving and inconsistency
+# between teams when they commit
+
+# 'git diff' + 2 ids will show line comparison
+# of what code has changed
+
+# Reflect using git to view history
+
+## git log = shows path of changes in file
+## git diff first_file second_file = compares files and changes in its history
+## first_file is below second_file from git log
+
+# Reflect using git to revert history
+
+## git checkout == reverts version of code
